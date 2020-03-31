@@ -185,33 +185,3 @@ class SensorEvaluator
   end
 end
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# def process_row(data_row, index, current_thing = nil)
-#   data
-#   if current_thing.nil?
-#     current_thing = Thing.new(data_row.split.first, data_row.split.last)
-#   end
-
-# end
-
-
-
-
-
-
-
-
